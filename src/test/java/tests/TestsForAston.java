@@ -67,10 +67,10 @@ public class TestsForAston extends TestBase{
     @DisplayName("Проверка работоспособности баттона 'Отправьте нам сообщение'")
     void sendMessageToUs() {
         step("Нажимаем на элемент страницы Отправьте нам сообщение", () -> {
-            $("#jvlabelWrap").click();
+            $(".hoverl_e869").click();
         });
         step("Проверям наличие текста в окне для ввода сообщения", () -> {
-            $(".container_e901").shouldHave(text("Хочу нанять ИТ команду"));
+            $(".container_e901").shouldHave(text("У вас возникли вопросы? Мы с удовольствием ответим!"));
         });
     }
 }
