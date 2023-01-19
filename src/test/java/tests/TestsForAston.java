@@ -70,7 +70,7 @@ public class TestsForAston extends TestBase{
             $(".hoverl_e869").click();
         });
         step("Проверям наличие текста в окне для ввода сообщения", () -> {
-            $(".container_e901").shouldHave(text("У вас возникли вопросы? Мы с удовольствием ответим!"));
+            $("#jcont").shouldHave(text("У вас возникли вопросы? Мы с удовольствием ответим!"));
         });
     }
 }
