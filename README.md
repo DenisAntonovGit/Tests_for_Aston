@@ -69,19 +69,19 @@ test
 ### Основное окно
 
 <p align="center">
-<img title="Allure Overview Dashboard" src="images_for_project/allure_report_overview.png">
+<img title="Allure Overview Dashboard" src="images_for_project/Allure_report_overview.png">
 </p>
 
 ### Тесты
 
 <p align="center">
-<img title="Allure Tests" src="images_for_project/allure_report_tests.png">
+<img title="Allure Tests" src="images_for_project/Allure_report_tests.png">
 </p>
 
 ### Графики
 
 <p align="center">
-<img title="Allure Graphics" src="images_for_project/allure_report_grafics.png">
+<img title="Allure Graphics" src="images_for_project/Allure_report_grafics.png">
 </p>
 
 
