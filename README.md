@@ -91,7 +91,7 @@ test
 <img title="Telegram" src="images_for_project/Telegram_notification.png">
 </p>
 
-### <img src="images/Selenoid.svg" width="25" height="25"  alt="Selenoid video"/></a> Видео о прохождении тестов
+### <img src="images_for_project/Selenoid.svg" width="25" height="25"  alt="Selenoid video"/></a> Видео о прохождении тестов
 
 <p align="center">
 <img title="Selenoid Video" src="images_for_project/video_for_project.gif" width="700" height="500"  alt="video"> 
