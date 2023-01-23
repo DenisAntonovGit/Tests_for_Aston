@@ -94,7 +94,7 @@ test
 ### <img src="images/Selenoid.svg" width="25" height="25"  alt="Selenoid video"/></a> Видео о прохождении тестов
 
 <p align="center">
-<img title="Selenoid Video" src="images_for_project/video_for_project.gif" width="250" height="250"  alt="video"> 
+<img title="Selenoid Video" src="images_for_project/video_for_project.gif" width="700" height="500"  alt="video"> 
 </p>
 
 
