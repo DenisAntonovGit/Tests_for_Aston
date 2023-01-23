@@ -1,5 +1,5 @@
 # Проект по автоматизации тестирования для Aston
-<a target="_blank" href="https://astondevs.com/">Веб сайт Aston</a>
+<a target="_blank" href="https://astondevs.com/">Веб-сайт Aston</a>
 
 ## :scroll: Содержание:
 
