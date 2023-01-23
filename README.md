@@ -4,12 +4,12 @@
 ## :scroll: Содержание:
 
 * <a href="#stack">Используемые технологии</a>
-- [Реализованные проверки](#earth_africa-Реализованные-проверки)
-- [Параметры сборки в Jenkins](#earth_africa-Jenkins-job)
-- [Запуск тестов из терминала](#earth_africa-Запуск-тестов-из-терминала)
-- [Allure отчет](#earth_africa-Allure-отчет)
-- [Отчет в Telegram](#earth_africa-Уведомление-в-Telegram-при-помощи-бота)
-- [Видео примеры прохождения тестов](#earth_africa-Примеры-видео-о-прохождении-тестов)
+* <a href="#verifications">Реализованные проверки</a>
+* <a href="#jenkins-build">Параметры сборки в Jenkins</a>
+* <a href="#terminal-run">Запуск тестов из терминала</a>
+* <a href="#allure-report">Allure отчет</a>
+* <a href="#telegram-notification">Отчет в Telegram</a>
+* <a href="#selenoid-video">Видео примеры прохождения тестов</a>
 
 <a id="stack"></a>
 ## 🔧 Используемые технологии:
@@ -26,6 +26,7 @@
 <a href="https://www.jenkins.io/"><img src="images_for_project/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 </p>
 
+<a id="verifications"></a>
 ## :clipboard: Реализованные проверки:
 
 - ✓ Проверка элементов главного меню.
@@ -41,6 +42,7 @@
 <a href="https://jenkins.autotests.cloud/job/C16-Denis_Antonov_0_0-unit14/"><img src="images_for_project/Jenkins_build.png" alt="Jenkins"/></a>
 </p>
 
+<a id="jenkins-build"></a>
 ### Параметры сборки в Jenkins:
 
 - browser (браузер, по умолчанию chrome)
@@ -48,6 +50,7 @@
 - browserSize (размер окна браузера, по умолчанию 1024x768)
 - remoteUrl (логин, пароль и адрес удаленного сервера selenoid)
 
+<a id="terminal-run"></a>
 ## :computer: Запуск тестов из терминала
 
 Локальный запуск:
@@ -65,6 +68,7 @@ test
 -Dbrowser_size=${BROWSER_SIZE}
 ```
 
+<a id="allure-report"></a>
 ## <img src="images_for_project/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/C16-Denis_Antonov_0_0-unit14/7/allure/#">Allure report</a>
 
 ### Основное окно
@@ -85,13 +89,14 @@ test
 <img title="Allure Graphics" src="images_for_project/Allure_report_grafics.png">
 </p>
 
-
+<a id="telegram-notification"></a>
 ## <img src="images_for_project/Telegram.svg" width="25" height="25"  alt="Telegram"/></a> Уведомление в Telegram
 
 <p align="center">
 <img title="Telegram" src="images_for_project/Telegram_notification.png">
 </p>
 
+<a id="selenoid-video"></a>
 ### <img src="images_for_project/Selenoid.svg" width="25" height="25"  alt="Selenoid video"/></a> Видео о прохождении тестов
 
 <p align="center">
